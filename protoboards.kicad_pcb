@@ -18,7 +18,7 @@
     (date "Sat 24 Jan 2015")
     (rev A)
     (company Springuin.nl)
-    (comment 1 "License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International")
+    (comment 1 "License: Creative Commons Attribution-ShareAlike 4.0 International")
   )
 
   (layers
